@@ -6,7 +6,7 @@ Generated from [`data/ops-productivity.json`](../data/ops-productivity.json). Ed
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-53 bots.
+55 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -63,3 +63,5 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | 2nd Brain | TJM | Files sources as notes, compiles wiki pages, answers only from those pages | https://x.ai/bot/c4fYduVVic2YtbcjXquD0 | 2026-09-01 |
 | Shepherd | Can | Herds and routes work across Herdr coding agents | https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J | 2026-09-01 |
 | Latch | Oliver | Walks a new user from role and tools to live connectors, then does a first real job | https://x.ai/bot/9nbLm_04EvjnolE9oevTT | 2026-09-01 |
+| AE deal | scottxmetcalf | Qualifies and coaches AE sales deals; research, coverage, and follow-up | https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe | 2026-09-02 |
+| Token-Ops | adgapar | Tracks live Grok Bot routines and token cost; flags waste | https://x.ai/bot/4mCuSlW34n6l3aYxYJCdj | 2026-09-02 |

@@ -6,7 +6,7 @@ Generated from [`data/content-writing.json`](../data/content-writing.json). Edit
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-7 bots.
+8 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -17,3 +17,4 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Blunt | Tal | Blunt copy and voice review; names the one fix first | https://x.ai/bot/N0J32FbnVRuetJi1oJggh | 2026-09-01 |
 | Commercial Taste | Smit | Positioning and commercialization thought partner; picks a move before the data is complete | https://x.ai/bot/vekulzIMXM8hDjkp-mDkX | 2026-09-01 |
 | Clip Bot | Lon | Cuts captioned 16:9 clips from YouTube interviews and podcasts | https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M | 2026-09-01 |
+| vidmoat | vidmoat | Cuts, previews, and renders videos in Vidmoat over MCP | https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc | 2026-09-02 |

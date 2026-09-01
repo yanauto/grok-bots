@@ -47,5 +47,12 @@
     "role": "Cuts captioned 16:9 clips from YouTube interviews and podcasts",
     "url": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "vidmoat",
+    "author": "vidmoat",
+    "role": "Cuts, previews, and renders videos in Vidmoat over MCP",
+    "url": "https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc",
+    "verified": "2026-09-02"
   }
 ]

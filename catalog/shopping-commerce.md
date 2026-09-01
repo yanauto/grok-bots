@@ -6,7 +6,7 @@ Generated from [`data/shopping-commerce.json`](../data/shopping-commerce.json). 
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-18 bots.
+19 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -28,3 +28,4 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Sylvia Style | Claire | Buys in-stock pieces by size and taste; builds a lookbook | https://x.ai/bot/uVBVr5NSR6VirgJrgikIl | 2026-09-01 |
 | Grocery Cart Planner | Elie | Dedupes an Instacart cart; orders only after you confirm | https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr | 2026-09-01 |
 | t2000 | funkii.sui | Marketplace operator for t2000.ai; earn, hire, settle, and sell in USDC | https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY | 2026-09-01 |
+| Copay Compass | MSaintjour | Finds cancer-drug copay programs; you submit; no medical advice | https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD | 2026-09-02 |
