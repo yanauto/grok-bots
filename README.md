@@ -66,3 +66,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Jess / Logan | Weekday rollup of mail, calendar, Notion, and Slack; answers from a playbook | https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN | 2026-09-01 |
 | Competitor Watching / Andrej | Weekly diffs for 3–8 competitors; only reports material changes | https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N | 2026-09-01 |
 | Lazy Tom / duyet | Does the smallest useful step then stops | https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb | 2026-09-01 |
+| News Scout / Eleni | Weekday morning 2–3 practical AI items; if none qualify, slow day | https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P | 2026-09-01 |
+| RuntimeWire - AI & Startup News / Ryan | AI, startup, and funding brief with primary-source check | https://x.ai/bot/k4iwGejDGoy-oT7qohxXb | 2026-09-01 |
+| Ethan / JUMPERZ | Evidence-first research; unknown if no source; no outbound posts | https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE | 2026-09-01 |
+| SaaSbot / Daniel | Weekday GTM, outreach, QA, and onboarding for SaaS founders | https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM | 2026-09-01 |
+| Returns & Warranties / Liam | Tracks return and warranty windows; does not start a return unless asked | https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt | 2026-09-01 |
