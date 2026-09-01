@@ -61,3 +61,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Inbot / Matthew | Connects the inbox you actually use; scans todos into a ledger | https://x.ai/bot/yH2UttxbMwMugweZrigHT | 2026-09-01 |
 | Echo / Krista | Client calls into slides; does not invent spoken words; no public posting | https://x.ai/bot/ph5mcXqVy2p176Br7BJYi | 2026-09-01 |
 | GTM Chief Of Staff / Sultanov | Enterprise sales pre/post meeting drafts; does not change CRM on its own | https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b | 2026-09-01 |
+| Product Ops / Ashish | Frozen list into this week's ship table; checks GitHub; does not invent progress | https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv | 2026-09-01 |
+| Vinted Seller / Valerio | Photos onto Vinted; verifies URL via the real publish path | https://x.ai/bot/nqMcywYF0Bg35egak7dSh | 2026-09-01 |
+| Jess / Logan | Weekday rollup of mail, calendar, Notion, and Slack; answers from a playbook | https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN | 2026-09-01 |
+| Competitor Watching / Andrej | Weekly diffs for 3–8 competitors; only reports material changes | https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N | 2026-09-01 |
+| Lazy Tom / duyet | Does the smallest useful step then stops | https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb | 2026-09-01 |
