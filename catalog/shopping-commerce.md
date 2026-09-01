@@ -6,7 +6,7 @@ Generated from [`data/shopping-commerce.json`](../data/shopping-commerce.json). 
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-11 bots.
+17 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -21,3 +21,9 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Blair | Jediah | Secondhand designer shopping; does not invent listings; contacting sellers needs a yes | https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme | 2026-09-01 |
 | Credit Card Max | Trevin | Which card to use for the best deal; monthly review | https://x.ai/bot/D831qeIZ5QrobdVh-X79U | 2026-09-01 |
 | Deal Hunting | Andrej | Landed-price compare including shipping and tax; does not buy unless asked | https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf | 2026-09-01 |
+| Shop | Alex | Shopify shortlist with checkout links; does not spend unless asked | https://x.ai/bot/nlIApzau1qw0MNiRkqbPH | 2026-09-01 |
+| Local Deals | Brandon | Scans local secondhand markets for worth-pickup listings; does not buy for you | https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo | 2026-09-01 |
+| Mystery Snack Agent | Nayli | Friday 19:00 surprise dessert delivery; reveal only when it arrives | https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP | 2026-09-01 |
+| Pika Bot | Joe | Pokemon Center US restock watch; does not spend unless asked | https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL | 2026-09-01 |
+| Sylvia Style | Claire | Buys in-stock pieces by size and taste; builds a lookbook | https://x.ai/bot/uVBVr5NSR6VirgJrgikIl | 2026-09-01 |
+| Grocery Cart Planner | Elie | Dedupes an Instacart cart; orders only after you confirm | https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr | 2026-09-01 |

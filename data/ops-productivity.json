@@ -208,5 +208,138 @@
     "role": "Sorts boring files into Notion; no signing, spending, or outbound",
     "url": "https://x.ai/bot/mNN576TxXnc_XZu9aCsfr",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Canvas",
+    "author": "Dakkshin",
+    "role": "Login to school Canvas, list courses and deadlines, help with homework",
+    "url": "https://x.ai/bot/YihRBqrXaDwRdjN79Uofl",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Morpheus",
+    "author": "Liam",
+    "role": "Picks a side on a dilemma; does not execute irreversible actions",
+    "url": "https://x.ai/bot/uv4r3mNUgymF11q0N3L7F",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Negotiator",
+    "author": "Dani",
+    "role": "Salary, rent, and sales negotiation paths; does not sign for you",
+    "url": "https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Pain in the Task",
+    "author": "Dave",
+    "role": "Finds repetitive work that slows you down and pushes it along",
+    "url": "https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Onboarding Coach",
+    "author": "Tobias",
+    "role": "Welcomes new users; grows specialists and optional CoS from real work",
+    "url": "https://x.ai/bot/OfZitBsJprif-DfsQKBUY",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Homeroom",
+    "author": "Andy",
+    "role": "Parent Schoology snapshots three times on weekdays",
+    "url": "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "SchoolAdminBot",
+    "author": "Tanner",
+    "role": "US homeschool admin: rules, admissions, transcripts; pairs with TeacherBot",
+    "url": "https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "TeacherBot",
+    "author": "Tanner",
+    "role": "Homeschool teacher for one child; year plan and report cards",
+    "url": "https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Home Front",
+    "author": "Diego",
+    "role": "Watches VA.gov appointments and benefits; no claims, no purchases",
+    "url": "https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "bond",
+    "author": "Lauren",
+    "role": "Confidential tasks with an audit trail then wipes working copies",
+    "url": "https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Clark Kent",
+    "author": "Rich",
+    "role": "Shop/project daily report, facts first; one paragraph on quiet days",
+    "url": "https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "AIオーケストレーション担当",
+    "author": "Masaki",
+    "role": "Dispatch window only; routes work to existing specialists by name",
+    "url": "https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Skill Bot",
+    "author": "Dave",
+    "role": "Find, dedupe, and upload skills; weekly conflict review",
+    "url": "https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Agent Smith",
+    "author": "Chip",
+    "role": "Multi-bot workspace hygiene check; destructive changes need permission",
+    "url": "https://x.ai/bot/JcFj23aaufNWkuiiJTX0j",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "BeTree",
+    "author": "Nicolas",
+    "role": "Turns multi-bot plans into a live behavior-tree board",
+    "url": "https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Examiner",
+    "author": "Liam",
+    "role": "Timeline of important changes for later replay; does not change systems",
+    "url": "https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Linky",
+    "author": "Adam",
+    "role": "Turns a file or bot artifact into a here.now share URL",
+    "url": "https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "GTM Outbound",
+    "author": "Brandon",
+    "role": "Outbound GTM: lists, mail, LinkedIn, meetings via CLIs you already have",
+    "url": "https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Tally Desk",
+    "author": "Josh",
+    "role": "Tally.so: build forms, read submissions, fill a named form",
+    "url": "https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5",
+    "verified": "2026-09-01"
   }
 ]

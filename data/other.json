@@ -54,5 +54,19 @@
     "role": "Designs a minimal bot org; default does not create bots; org changes need explicit yes",
     "url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Yolk",
+    "author": "JP",
+    "role": "Sidebar electronic pet egg; feed four food emojis a day",
+    "url": "https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "KeyWire: Would You Rather: Collector",
+    "author": "VonDoom",
+    "role": "Would You Rather collector-card game; not financial advice",
+    "url": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+    "verified": "2026-09-01"
   }
 ]
