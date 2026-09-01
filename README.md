@@ -51,3 +51,13 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Shopper / Pete | Price-compares 2–3 options; does not buy before confirm | https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ | 2026-09-01 |
 | loom / Lauren | Chains Gmail draft replies; does not send or delete | https://x.ai/bot/cElGnAaR55iPHK2DGdPdu | 2026-09-01 |
 | Reaper / Liam | Finds meetings, subs, and processes that should die; audit first, no deletes | https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73 | 2026-09-01 |
+| X High Coach / High | Drop a username; scores the account and says what to change | https://x.ai/bot/xSfBSprfKv5h909uzrv7W | 2026-09-01 |
+| PR Reviewer / mustafa | Looks at the diffs that can explode first; no rubber stamp | https://x.ai/bot/rt629UEZFtE4Wz0A_0c37 | 2026-09-01 |
+| lgtm the pr closer / Claire | Scans open PRs then merge, comment, or close | https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo | 2026-09-01 |
+| X Strategist / Sultanov | Only suggests who to follow and what to write; does not post or comment | https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH | 2026-09-01 |
+| repost X posts everywhere / jack | Mirrors new X posts to other platforms via Post Bridge | https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP | 2026-09-01 |
+| Gardener / Tyler | Only rips dead code it can prove; one small PR at a time | https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp | 2026-09-01 |
+| Agent Looper / dancingteeth | You set done criteria; local coding agent loops until it passes | https://x.ai/bot/AETdGbRRNWfckrRGv22LD | 2026-09-01 |
+| Inbot / Matthew | Connects the inbox you actually use; scans todos into a ledger | https://x.ai/bot/yH2UttxbMwMugweZrigHT | 2026-09-01 |
+| Echo / Krista | Client calls into slides; does not invent spoken words; no public posting | https://x.ai/bot/ph5mcXqVy2p176Br7BJYi | 2026-09-01 |
+| GTM Chief Of Staff / Sultanov | Enterprise sales pre/post meeting drafts; does not change CRM on its own | https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b | 2026-09-01 |
