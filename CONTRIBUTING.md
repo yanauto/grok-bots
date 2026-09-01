@@ -5,7 +5,7 @@ This list only includes Grok Bot share links that someone has opened and confirm
 ## Verification checklist
 
 - [ ] Open the public share URL (`https://x.ai/bot/<id>`) in a browser.
-- [ ] Confirm the page loads (not a 404 or a dead link).
+- [ ] Confirm the page loads and shows Add to Grok Bot (not a 404 or a dead link).
 - [ ] Record the bot name as shown on the share page.
 - [ ] Record the share id from the URL.
 - [ ] Write a one-line role (what the share page presents, not a sales pitch).
