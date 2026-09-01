@@ -46,3 +46,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Webby / Farzad | Personal site, weekday dashboard, and newsletter; create only, never delete | https://x.ai/bot/Q2shbC8RRmoRleIyr5J33 | 2026-09-01 |
 | Inbox Zero / LD | Weekday Gmail noise-clear; leave only unread that needs action | https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98 | 2026-09-01 |
 | Home robots / Sawyer | Chat-control lawn mowers, vacuums, and other Matter home robots | https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u | 2026-09-01 |
+| the j*bfinder / Daniel | Internship and job tracking in Notion; nags deadlines | https://x.ai/bot/eSCwViGduTgMD6PiOo7jm | 2026-09-01 |
+| club events ops / Daniel | Student club event forms, Slack nags, and Notion lists | https://x.ai/bot/SDLUUiG6HKwiFpGqCOAw7 | 2026-09-01 |
+| Shopper / Pete | Price-compares 2–3 options; does not buy before confirm | https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ | 2026-09-01 |
+| loom / Lauren | Chains Gmail draft replies; does not send or delete | https://x.ai/bot/cElGnAaR55iPHK2DGdPdu | 2026-09-01 |
+| Reaper / Liam | Finds meetings, subs, and processes that should die; audit first, no deletes | https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73 | 2026-09-01 |
