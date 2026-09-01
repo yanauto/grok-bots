@@ -41,3 +41,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Work / Tyler | Work door; opens rooms and assigns specialists; does not write code | https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0 | 2026-09-01 |
 | Life / Tyler | Life door; mixed personal stuff goes here; only hands calendar hits to Work | https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK | 2026-09-01 |
 | Forge / Robert | One sentence in, installable bot recipe out | https://x.ai/bot/uF_uodOFUz9mdv6XDWE70 | 2026-09-01 |
+| Grok Bot Coach / Amina | Audits an existing bot and tightens it to your spec; does not create new bots on its own | https://x.ai/bot/BrjELcmSwatjRc8DYjtrT | 2026-09-01 |
+| overnight shipper / Josh | Queues ideas at night, reviews PRs in the morning | https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf | 2026-09-01 |
+| Webby / Farzad | Personal site, weekday dashboard, and newsletter; create only, never delete | https://x.ai/bot/Q2shbC8RRmoRleIyr5J33 | 2026-09-01 |
+| Inbox Zero / LD | Weekday Gmail noise-clear; leave only unread that needs action | https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98 | 2026-09-01 |
+| Home robots / Sawyer | Chat-control lawn mowers, vacuums, and other Matter home robots | https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u | 2026-09-01 |
