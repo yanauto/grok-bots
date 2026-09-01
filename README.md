@@ -13,16 +13,16 @@ Add one object to the matching use-case file under [`data/`](data/). Do not add 
 ## Categories
 
 <!-- catalog-index:start -->
-153 verified bots, grouped by use case. Full tables live under [`catalog/`](catalog/). Source lists are [`data/<category>.json`](data/).
+157 verified bots, grouped by use case. Full tables live under [`catalog/`](catalog/). Source lists are [`data/<category>.json`](data/).
 
 | Category | Count | What lives here |
 | --- | ---: | --- |
 | [Coding / dev](catalog/coding-dev.md) | 29 | Apps, code, PRs, shipping, site audits |
-| [Content / writing](catalog/content-writing.md) | 7 | Copy, slides, SEO briefs, outreach drafts |
+| [Content / writing](catalog/content-writing.md) | 8 | Copy, slides, SEO briefs, outreach drafts |
 | [X / social](catalog/x-social.md) | 5 | X briefs, growth, posting, account coaching |
-| [Ops / productivity](catalog/ops-productivity.md) | 53 | Inbox, calendar, CoS, sales ops, support |
+| [Ops / productivity](catalog/ops-productivity.md) | 55 | Inbox, calendar, CoS, sales ops, support |
 | [Research / news](catalog/research-news.md) | 8 | Research, papers, news, competitor diffs |
-| [Shopping / commerce](catalog/shopping-commerce.md) | 18 | Refunds, shopping, selling, subscriptions |
+| [Shopping / commerce](catalog/shopping-commerce.md) | 19 | Refunds, shopping, selling, subscriptions |
 | [Home / life](catalog/home-life.md) | 22 | Home, travel, food, personal life door |
 | [Other](catalog/other.md) | 11 | Bot craft and anything that does not fit above |
 <!-- catalog-index:end -->
