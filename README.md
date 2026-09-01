@@ -13,11 +13,11 @@ Add one object to the matching use-case file under [`data/`](data/). Do not add 
 ## Categories
 
 <!-- catalog-index:start -->
-146 verified bots, grouped by use case. Full tables live under [`catalog/`](catalog/). Source lists are [`data/<category>.json`](data/).
+147 verified bots, grouped by use case. Full tables live under [`catalog/`](catalog/). Source lists are [`data/<category>.json`](data/).
 
 | Category | Count | What lives here |
 | --- | ---: | --- |
-| [Coding / dev](catalog/coding-dev.md) | 26 | Apps, code, PRs, shipping, site audits |
+| [Coding / dev](catalog/coding-dev.md) | 27 | Apps, code, PRs, shipping, site audits |
 | [Content / writing](catalog/content-writing.md) | 5 | Copy, slides, SEO briefs, outreach drafts |
 | [X / social](catalog/x-social.md) | 5 | X briefs, growth, posting, account coaching |
 | [Ops / productivity](catalog/ops-productivity.md) | 52 | Inbox, calendar, CoS, sales ops, support |

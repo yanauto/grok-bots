@@ -180,5 +180,12 @@
     "role": "Runs the Grok Build CLI for apps, code, and deep research on an agent computer",
     "url": "https://x.ai/bot/AY2y4oPL_VgcttCt8OFqm",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Overwatch",
+    "author": "A-A-ron",
+    "role": "Shared multi-bot workspace: layout, git backup, cleanup, and a bot registry",
+    "url": "https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9",
+    "verified": "2026-09-01"
   }
 ]
