@@ -91,3 +91,13 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Invoice Hunter / Andrej | Pulls invoice PDFs from Gmail into a pack; needs approval before sending to accounting | https://x.ai/bot/-kO6HrXokJZANVwUOMZO9 | 2026-09-01 |
 | AIUsageBot / Brian | Tracks remaining quota on AI subscriptions | https://x.ai/bot/2atUDeldi9vF1R_ySRgCo | 2026-09-01 |
 | John Wick / Liam | Finds the person who can decide then pulls you into the thread; no impersonation, no spray | https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7 | 2026-09-01 |
+| Freelance manager / Josh | Freelancer desk; nags proposals, invoices, and calendar; not a proposal-writing machine | https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg | 2026-09-01 |
+| Blair / Jediah | Secondhand designer shopping; does not invent listings; contacting sellers needs a yes | https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme | 2026-09-01 |
+| Credit Card Max / Trevin | Which card to use for the best deal; monthly review | https://x.ai/bot/D831qeIZ5QrobdVh-X79U | 2026-09-01 |
+| Appointment Finder / Liam | Finds best appointment slots; does not book or cancel unless asked | https://x.ai/bot/75K-dB4m30goo_PamA9nM | 2026-09-01 |
+| HouseBot / Shub | 12-hour sweep of rent/buy listings | https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL | 2026-09-01 |
+| Job interview hunter / Josh | After a role is locked, drafts applications and intros; never auto-applies | https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u | 2026-09-01 |
+| Deal Hunting / Andrej | Landed-price compare including shipping and tax; does not buy unless asked | https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf | 2026-09-01 |
+| Paperwork / Liam | Sorts boring files into Notion; no signing, spending, or outbound | https://x.ai/bot/mNN576TxXnc_XZu9aCsfr | 2026-09-01 |
+| Be Happier / Lenny | Weekly 3 concrete items from mail and calendar; does not add new habits | https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG | 2026-09-01 |
+| Homework Checker / Kevin | Weekday after-school missing homework and grade summary | https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91 | 2026-09-01 |
