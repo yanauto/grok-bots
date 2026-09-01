@@ -36,3 +36,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Watchdog / SmoresBoy | Scans receipts, renewals, and trials; does not cancel, spend, or send mail | https://x.ai/bot/PuAEE57P58Df5zskFY3pg | 2026-09-01 |
 | Box Inspector / Knock | Opens a share link and inspects internals before you add it | https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J | 2026-09-01 |
 | Product Engineer 1000x / Thomas | Full-stack product engineer on Convex + TanStack + React | https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu | 2026-09-01 |
+| dr eggbot / Lauren | Asks a few preference questions then helps you build a bot | https://x.ai/bot/93gOz3op1UQdBdbekQFLK | 2026-09-01 |
+| template generator / Jarett | Scans local Claude/Cline/Grok sessions then generates a shareable template | https://x.ai/bot/9oKJDID_EKLacIXpKfFAq | 2026-09-01 |
+| Work / Tyler | Work door; opens rooms and assigns specialists; does not write code | https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0 | 2026-09-01 |
+| Life / Tyler | Life door; mixed personal stuff goes here; only hands calendar hits to Work | https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK | 2026-09-01 |
+| Forge / Robert | One sentence in, installable bot recipe out | https://x.ai/bot/uF_uodOFUz9mdv6XDWE70 | 2026-09-01 |
