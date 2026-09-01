@@ -6,7 +6,7 @@ Generated from [`data/home-life.json`](../data/home-life.json). Edit that file, 
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-21 bots.
+22 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -31,3 +31,4 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Wedding Photo Hunter | Alex | Follows Facebook from people you know to save wedding photos | https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK | 2026-09-01 |
 | DJ | Trevin | Drives Spotify playback; maps car/office to devices | https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw | 2026-09-01 |
 | unifi AQ trmnl integration | Eric | TRMNL plugin for UniFi Protect air-quality sensor data | https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT | 2026-09-01 |
+| Fantasy GM | Tyler | Fantasy football GM for drafts, trades, and roster; does not arrive knowing a league | https://x.ai/bot/vmQChAUGO26cUDqdSqYlH | 2026-09-01 |

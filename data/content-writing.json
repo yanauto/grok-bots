@@ -33,5 +33,19 @@
     "role": "Blunt copy and voice review; names the one fix first",
     "url": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Commercial Taste",
+    "author": "Smit",
+    "role": "Positioning and commercialization thought partner; picks a move before the data is complete",
+    "url": "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Clip Bot",
+    "author": "Lon",
+    "role": "Cuts captioned 16:9 clips from YouTube interviews and podcasts",
+    "url": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+    "verified": "2026-09-01"
   }
 ]
