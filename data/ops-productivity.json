@@ -341,5 +341,19 @@
     "role": "Tally.so: build forms, read submissions, fill a named form",
     "url": "https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "The Accountant",
+    "author": "Ben Storrie",
+    "role": "Finds runaway-token Grok Bots and says what to tighten, offload, or kill",
+    "url": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "2nd Brain",
+    "author": "TJM",
+    "role": "Files sources as notes, compiles wiki pages, answers only from those pages",
+    "url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+    "verified": "2026-09-01"
   }
 ]

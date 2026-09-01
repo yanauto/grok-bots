@@ -166,5 +166,12 @@
     "role": "Sends heavy work to a Cursor/Grok Build/Claude Code/Codex usage pool",
     "url": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Grok Build",
+    "author": "Beau",
+    "role": "Builds client sites with Grok Build, deploys a Vercel preview; checks before mail or go-live",
+    "url": "https://x.ai/bot/iwa3WaHZn385jfZrsQngL",
+    "verified": "2026-09-01"
   }
 ]
