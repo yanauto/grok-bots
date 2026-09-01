@@ -76,3 +76,13 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Index / Adam | SEO/AEO briefs, not body copy; quiet unless you need a decision | https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7 | 2026-09-01 |
 | Chef / dogenorway | Seasonal menus and fridge-first shopping; can place grocery orders | https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J | 2026-09-01 |
 | Alfred / Robin | Designs a minimal bot org; default does not create bots; org changes need explicit yes | https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh | 2026-09-01 |
+| Travel Guru / DJ | Points and ticket price compares; no mileage transfer or payment unless you say book | https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP | 2026-09-01 |
+| Chieeeeefy / Naoufal | Field engineer CoS; calendar and work mail; Notion is source of truth | https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q | 2026-09-01 |
+| Kody / Kent | CoS; kody.codes plugin is home | https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e | 2026-09-01 |
+| Lockdown / Claire | Weekday SOC 2; quiet once passing | https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE | 2026-09-01 |
+| Projects Manager / Eric | Notion project ops; specialists pick up work; you decide | https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD | 2026-09-01 |
+| Holly Helpdesk / Claire | Frontline support; refund disputes need your approval | https://x.ai/bot/sIoeE87fILU5CzptPF29K | 2026-09-01 |
+| Post Call Assistant / Priya | Post-meeting todos and drafts; does not send | https://x.ai/bot/xF12c5y4LVe7nf7IFguWI | 2026-09-01 |
+| LinkedIn Desk / AJ | Reviews invites; does not click until confirmed | https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi | 2026-09-01 |
+| Linkedin Leads / Angel | Finds leads from posts and comments by keyword | https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W | 2026-09-01 |
+| Website agency lead scout / Josh | Up to 5 confirmed website-build leads per day; no outreach on its own | https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ | 2026-09-01 |
