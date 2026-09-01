@@ -31,3 +31,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Thoth / Rich | Deep research and archival; researcher, not a writer | https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT | 2026-09-01 |
 | Growth Desk / Avid | Drafts X growth only; default does not post, like, or comment | https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO | 2026-09-01 |
 | AI Resource Sift / Alen | For one AI topic, scans papers, code, and courses into short cards and a file stack; no posting, no installing software | https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL | 2026-09-01 |
+| Chief of Staff / Avid | Watches the day and company block; last action needs an explicit ask | https://x.ai/bot/d8OshqLZvtcKDcNluPuyo | 2026-09-01 |
+| Vet / Gaurang | Reviews templates and teammates only; pass/warn/fail; does not install or run | https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT | 2026-09-01 |
+| Watchdog / SmoresBoy | Scans receipts, renewals, and trials; does not cancel, spend, or send mail | https://x.ai/bot/PuAEE57P58Df5zskFY3pg | 2026-09-01 |
+| Box Inspector / Knock | Opens a share link and inspects internals before you add it | https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J | 2026-09-01 |
+| Product Engineer 1000x / Thomas | Full-stack product engineer on Convex + TanStack + React | https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu | 2026-09-01 |
