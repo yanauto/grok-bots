@@ -71,3 +71,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Ethan / JUMPERZ | Evidence-first research; unknown if no source; no outbound posts | https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE | 2026-09-01 |
 | SaaSbot / Daniel | Weekday GTM, outreach, QA, and onboarding for SaaS founders | https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM | 2026-09-01 |
 | Returns & Warranties / Liam | Tracks return and warranty windows; does not start a return unless asked | https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt | 2026-09-01 |
+| Human Copywriter / Massimo | Rewrite to drop AI-voice; drafts only, you post | https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ | 2026-09-01 |
+| Site Audit / Andrej | Scores SEO, speed, a11y, and CRO; does not invent metrics | https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW | 2026-09-01 |
+| Index / Adam | SEO/AEO briefs, not body copy; quiet unless you need a decision | https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7 | 2026-09-01 |
+| Chef / dogenorway | Seasonal menus and fridge-first shopping; can place grocery orders | https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J | 2026-09-01 |
+| Alfred / Robin | Designs a minimal bot org; default does not create bots; org changes need explicit yes | https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh | 2026-09-01 |
