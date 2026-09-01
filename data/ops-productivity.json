@@ -355,5 +355,12 @@
     "role": "Files sources as notes, compiles wiki pages, answers only from those pages",
     "url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Shepherd",
+    "author": "Can",
+    "role": "Herds and routes work across Herdr coding agents",
+    "url": "https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J",
+    "verified": "2026-09-01"
   }
 ]

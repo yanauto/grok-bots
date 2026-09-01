@@ -6,7 +6,7 @@ Generated from [`data/ops-productivity.json`](../data/ops-productivity.json). Ed
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-51 bots.
+52 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -61,3 +61,4 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Tally Desk | Josh | Tally.so: build forms, read submissions, fill a named form | https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5 | 2026-09-01 |
 | The Accountant | Ben Storrie | Finds runaway-token Grok Bots and says what to tighten, offload, or kill | https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX | 2026-09-01 |
 | 2nd Brain | TJM | Files sources as notes, compiles wiki pages, answers only from those pages | https://x.ai/bot/c4fYduVVic2YtbcjXquD0 | 2026-09-01 |
+| Shepherd | Can | Herds and routes work across Herdr coding agents | https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J | 2026-09-01 |

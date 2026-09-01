@@ -6,7 +6,7 @@ Generated from [`data/research-news.json`](../data/research-news.json). Edit tha
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-7 bots.
+8 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -17,3 +17,4 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | RuntimeWire - AI & Startup News | Ryan | AI, startup, and funding brief with primary-source check | https://x.ai/bot/k4iwGejDGoy-oT7qohxXb | 2026-09-01 |
 | Ethan | JUMPERZ | Evidence-first research; unknown if no source; no outbound posts | https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE | 2026-09-01 |
 | Trendspotter | jenna | Weekday digest of sports, entertainment, culture, and AI-in-marketing trends | https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr | 2026-09-01 |
+| Librarian | Shane | Catalogs your shelves from photos; snippets, contradictions, and books to hand people | https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw | 2026-09-01 |

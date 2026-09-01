@@ -138,5 +138,12 @@
     "role": "Drives Spotify playback; maps car/office to devices",
     "url": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "unifi AQ trmnl integration",
+    "author": "Eric",
+    "role": "TRMNL plugin for UniFi Protect air-quality sensor data",
+    "url": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+    "verified": "2026-09-01"
   }
 ]
