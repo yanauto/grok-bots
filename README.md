@@ -86,3 +86,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | LinkedIn Desk / AJ | Reviews invites; does not click until confirmed | https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi | 2026-09-01 |
 | Linkedin Leads / Angel | Finds leads from posts and comments by keyword | https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W | 2026-09-01 |
 | Website agency lead scout / Josh | Up to 5 confirmed website-build leads per day; no outreach on its own | https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ | 2026-09-01 |
+| ADM account bot / Scott | Weekly plan for customer growth and retention | https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN | 2026-09-01 |
+| porshe / Lauren | Only finds money already owed; no sending or paying | https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6 | 2026-09-01 |
+| Invoice Hunter / Andrej | Pulls invoice PDFs from Gmail into a pack; needs approval before sending to accounting | https://x.ai/bot/-kO6HrXokJZANVwUOMZO9 | 2026-09-01 |
+| AIUsageBot / Brian | Tracks remaining quota on AI subscriptions | https://x.ai/bot/2atUDeldi9vF1R_ySRgCo | 2026-09-01 |
+| John Wick / Liam | Finds the person who can decide then pulls you into the thread; no impersonation, no spray | https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7 | 2026-09-01 |
