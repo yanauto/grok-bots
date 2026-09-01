@@ -173,5 +173,12 @@
     "role": "Builds client sites with Grok Build, deploys a Vercel preview; checks before mail or go-live",
     "url": "https://x.ai/bot/iwa3WaHZn385jfZrsQngL",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Grok Build",
+    "author": "B",
+    "role": "Runs the Grok Build CLI for apps, code, and deep research on an agent computer",
+    "url": "https://x.ai/bot/AY2y4oPL_VgcttCt8OFqm",
+    "verified": "2026-09-01"
   }
 ]

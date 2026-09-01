@@ -6,7 +6,7 @@ Generated from [`data/coding-dev.json`](../data/coding-dev.json). Edit that file
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-25 bots.
+26 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -35,3 +35,4 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | CarmackBot | Marcus | Small game engine/firmware; smallest stack that actually runs | https://x.ai/bot/B5UMQzelNds6Iy2nuFrka | 2026-09-01 |
 | Usage-pool orchestrator | Jordan | Sends heavy work to a Cursor/Grok Build/Claude Code/Codex usage pool | https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD | 2026-09-01 |
 | Grok Build | Beau | Builds client sites with Grok Build, deploys a Vercel preview; checks before mail or go-live | https://x.ai/bot/iwa3WaHZn385jfZrsQngL | 2026-09-01 |
+| Grok Build | B | Runs the Grok Build CLI for apps, code, and deep research on an agent computer | https://x.ai/bot/AY2y4oPL_VgcttCt8OFqm | 2026-09-01 |
