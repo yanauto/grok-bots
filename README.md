@@ -51,3 +51,43 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Shopper / Pete | Price-compares 2–3 options; does not buy before confirm | https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ | 2026-09-01 |
 | loom / Lauren | Chains Gmail draft replies; does not send or delete | https://x.ai/bot/cElGnAaR55iPHK2DGdPdu | 2026-09-01 |
 | Reaper / Liam | Finds meetings, subs, and processes that should die; audit first, no deletes | https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73 | 2026-09-01 |
+| X High Coach / High | Drop a username; scores the account and says what to change | https://x.ai/bot/xSfBSprfKv5h909uzrv7W | 2026-09-01 |
+| PR Reviewer / mustafa | Looks at the diffs that can explode first; no rubber stamp | https://x.ai/bot/rt629UEZFtE4Wz0A_0c37 | 2026-09-01 |
+| lgtm the pr closer / Claire | Scans open PRs then merge, comment, or close | https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo | 2026-09-01 |
+| X Strategist / Sultanov | Only suggests who to follow and what to write; does not post or comment | https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH | 2026-09-01 |
+| repost X posts everywhere / jack | Mirrors new X posts to other platforms via Post Bridge | https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP | 2026-09-01 |
+| Gardener / Tyler | Only rips dead code it can prove; one small PR at a time | https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp | 2026-09-01 |
+| Agent Looper / dancingteeth | You set done criteria; local coding agent loops until it passes | https://x.ai/bot/AETdGbRRNWfckrRGv22LD | 2026-09-01 |
+| Inbot / Matthew | Connects the inbox you actually use; scans todos into a ledger | https://x.ai/bot/yH2UttxbMwMugweZrigHT | 2026-09-01 |
+| Echo / Krista | Client calls into slides; does not invent spoken words; no public posting | https://x.ai/bot/ph5mcXqVy2p176Br7BJYi | 2026-09-01 |
+| GTM Chief Of Staff / Sultanov | Enterprise sales pre/post meeting drafts; does not change CRM on its own | https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b | 2026-09-01 |
+| Product Ops / Ashish | Frozen list into this week's ship table; checks GitHub; does not invent progress | https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv | 2026-09-01 |
+| Vinted Seller / Valerio | Photos onto Vinted; verifies URL via the real publish path | https://x.ai/bot/nqMcywYF0Bg35egak7dSh | 2026-09-01 |
+| Jess / Logan | Weekday rollup of mail, calendar, Notion, and Slack; answers from a playbook | https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN | 2026-09-01 |
+| Competitor Watching / Andrej | Weekly diffs for 3–8 competitors; only reports material changes | https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N | 2026-09-01 |
+| Lazy Tom / duyet | Does the smallest useful step then stops | https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb | 2026-09-01 |
+| News Scout / Eleni | Weekday morning 2–3 practical AI items; if none qualify, slow day | https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P | 2026-09-01 |
+| RuntimeWire - AI & Startup News / Ryan | AI, startup, and funding brief with primary-source check | https://x.ai/bot/k4iwGejDGoy-oT7qohxXb | 2026-09-01 |
+| Ethan / JUMPERZ | Evidence-first research; unknown if no source; no outbound posts | https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE | 2026-09-01 |
+| SaaSbot / Daniel | Weekday GTM, outreach, QA, and onboarding for SaaS founders | https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM | 2026-09-01 |
+| Returns & Warranties / Liam | Tracks return and warranty windows; does not start a return unless asked | https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt | 2026-09-01 |
+| Human Copywriter / Massimo | Rewrite to drop AI-voice; drafts only, you post | https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ | 2026-09-01 |
+| Site Audit / Andrej | Scores SEO, speed, a11y, and CRO; does not invent metrics | https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW | 2026-09-01 |
+| Index / Adam | SEO/AEO briefs, not body copy; quiet unless you need a decision | https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7 | 2026-09-01 |
+| Chef / dogenorway | Seasonal menus and fridge-first shopping; can place grocery orders | https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J | 2026-09-01 |
+| Alfred / Robin | Designs a minimal bot org; default does not create bots; org changes need explicit yes | https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh | 2026-09-01 |
+| Travel Guru / DJ | Points and ticket price compares; no mileage transfer or payment unless you say book | https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP | 2026-09-01 |
+| Chieeeeefy / Naoufal | Field engineer CoS; calendar and work mail; Notion is source of truth | https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q | 2026-09-01 |
+| Kody / Kent | CoS; kody.codes plugin is home | https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e | 2026-09-01 |
+| Lockdown / Claire | Weekday SOC 2; quiet once passing | https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE | 2026-09-01 |
+| Projects Manager / Eric | Notion project ops; specialists pick up work; you decide | https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD | 2026-09-01 |
+| Holly Helpdesk / Claire | Frontline support; refund disputes need your approval | https://x.ai/bot/sIoeE87fILU5CzptPF29K | 2026-09-01 |
+| Post Call Assistant / Priya | Post-meeting todos and drafts; does not send | https://x.ai/bot/xF12c5y4LVe7nf7IFguWI | 2026-09-01 |
+| LinkedIn Desk / AJ | Reviews invites; does not click until confirmed | https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi | 2026-09-01 |
+| Linkedin Leads / Angel | Finds leads from posts and comments by keyword | https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W | 2026-09-01 |
+| Website agency lead scout / Josh | Up to 5 confirmed website-build leads per day; no outreach on its own | https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ | 2026-09-01 |
+| ADM account bot / Scott | Weekly plan for customer growth and retention | https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN | 2026-09-01 |
+| porshe / Lauren | Only finds money already owed; no sending or paying | https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6 | 2026-09-01 |
+| Invoice Hunter / Andrej | Pulls invoice PDFs from Gmail into a pack; needs approval before sending to accounting | https://x.ai/bot/-kO6HrXokJZANVwUOMZO9 | 2026-09-01 |
+| AIUsageBot / Brian | Tracks remaining quota on AI subscriptions | https://x.ai/bot/2atUDeldi9vF1R_ySRgCo | 2026-09-01 |
+| John Wick / Liam | Finds the person who can decide then pulls you into the thread; no impersonation, no spray | https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7 | 2026-09-01 |
