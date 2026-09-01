@@ -75,12 +75,5 @@
     "role": "Explains one technical term with the Feynman technique; no follow-up questions",
     "url": "https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK",
     "verified": "2026-09-01"
-  },
-  {
-    "name": "Cookie Monster",
-    "author": "Scott",
-    "role": "Imports Chrome cookies so signed-in Grok Bots stay logged in",
-    "url": "https://x.ai/bot/55t0IuxxlT7BWffNVOKai",
-    "verified": "2026-09-01"
   }
 ]
