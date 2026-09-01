@@ -91,3 +91,8 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Invoice Hunter / Andrej | Pulls invoice PDFs from Gmail into a pack; needs approval before sending to accounting | https://x.ai/bot/-kO6HrXokJZANVwUOMZO9 | 2026-09-01 |
 | AIUsageBot / Brian | Tracks remaining quota on AI subscriptions | https://x.ai/bot/2atUDeldi9vF1R_ySRgCo | 2026-09-01 |
 | John Wick / Liam | Finds the person who can decide then pulls you into the thread; no impersonation, no spray | https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7 | 2026-09-01 |
+| Freelance manager / Josh | Freelancer desk; nags proposals, invoices, and calendar; not a proposal-writing machine | https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg | 2026-09-01 |
+| Blair / Jediah | Secondhand designer shopping; does not invent listings; contacting sellers needs a yes | https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme | 2026-09-01 |
+| Credit Card Max / Trevin | Which card to use for the best deal; monthly review | https://x.ai/bot/D831qeIZ5QrobdVh-X79U | 2026-09-01 |
+| Appointment Finder / Liam | Finds best appointment slots; does not book or cancel unless asked | https://x.ai/bot/75K-dB4m30goo_PamA9nM | 2026-09-01 |
+| HouseBot / Shub | 12-hour sweep of rent/buy listings | https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL | 2026-09-01 |
