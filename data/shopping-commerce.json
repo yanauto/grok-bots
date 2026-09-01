@@ -117,5 +117,12 @@
     "role": "Dedupes an Instacart cart; orders only after you confirm",
     "url": "https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "t2000",
+    "author": "funkii.sui",
+    "role": "Marketplace operator for t2000.ai; earn, hire, settle, and sell in USDC",
+    "url": "https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY",
+    "verified": "2026-09-01"
   }
 ]
