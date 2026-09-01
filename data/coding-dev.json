@@ -187,5 +187,19 @@
     "role": "Shared multi-bot workspace: layout, git backup, cleanup, and a bot registry",
     "url": "https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Lingxi's Engineer Bot",
+    "author": "Lingxi",
+    "role": "Boards work, launches cloud agents, watches PRs; only asks you to merge",
+    "url": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "substreams",
+    "author": "Graphtronauts",
+    "role": "Finds and composes The Graph substreams packages; writes and tests modules",
+    "url": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
+    "verified": "2026-09-01"
   }
 ]
