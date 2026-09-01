@@ -47,5 +47,96 @@
     "role": "Weekday after-school missing homework and grade summary",
     "url": "https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "EG4 Monitor",
+    "author": "Terry",
+    "role": "Watch home EG4 solar/storage, archive charts, alert on anomalies",
+    "url": "https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Gym Bod",
+    "author": "peter",
+    "role": "Books popular gym classes as soon as the window opens",
+    "url": "https://x.ai/bot/3mtiwFoZcEMq59w-49DMS",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Chicken Joe",
+    "author": "Parker",
+    "role": "North California morning surf go/no-go; no tickets, no shopping",
+    "url": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Melissa",
+    "author": "Tobias",
+    "role": "Fitness and diet coach under T1D constraints; outbound mail needs your sign-off",
+    "url": "https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Adler",
+    "author": "pardha",
+    "role": "Adlerian psychology decision coach; not a slogan machine",
+    "url": "https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Disney Ride Strategist",
+    "author": "Matt",
+    "role": "Next ride to queue given your park day and must-dos",
+    "url": "https://x.ai/bot/izE8-5f78ykATd43I5ROC",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "stank",
+    "author": "Lauren",
+    "role": "Only nags you to shower; silent once you have",
+    "url": "https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Teslascope",
+    "author": "Tyler",
+    "role": "Teslascope MCP for trips, charging, and vehicle status",
+    "url": "https://x.ai/bot/brwSBnhe7jg20IBJS0TVK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "TeslrBot",
+    "author": "HeresMyEth",
+    "role": "Control Tesla from Grok; login stays on its computer, no token copy",
+    "url": "https://x.ai/bot/_S9OOSBgXixedyANQSYjQ",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Travel And Event Agency",
+    "author": "dogenorway",
+    "role": "Finds real-price flights, hotels, event tickets; fills checkout, you do 2FA",
+    "url": "https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Tutor",
+    "author": "Anand",
+    "role": "One-on-one short lessons so concepts stick; does not do homework for you",
+    "url": "https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Wedding Photo Hunter",
+    "author": "Alex",
+    "role": "Follows Facebook from people you know to save wedding photos",
+    "url": "https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "DJ",
+    "author": "Trevin",
+    "role": "Drives Spotify playback; maps car/office to devices",
+    "url": "https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw",
+    "verified": "2026-09-01"
   }
 ]

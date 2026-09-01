@@ -68,5 +68,103 @@
     "role": "Scores SEO, speed, a11y, and CRO; does not invent metrics",
     "url": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Interview Prep",
+    "author": "Tech",
+    "role": "After you pick topic and level, drills examples and code until interview-ready",
+    "url": "https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Convert Flat PDF to Fillable Form",
+    "author": "Oleksandr",
+    "role": "Turns a flat PDF into a fillable form; connects Instafill.ai after install",
+    "url": "https://x.ai/bot/7_kjCPFrySCloHK-QS-hu",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Overwatch",
+    "author": "Andrej",
+    "role": "Shared VM hygiene: folders, git backup, cleanup, identity snapshot",
+    "url": "https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "AI Harness Assistant",
+    "author": "Alan",
+    "role": "Updates coding harnesses you already use; does not add new ones",
+    "url": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Critiquito",
+    "author": "Manuel",
+    "role": "UI screenshot critique from a real-user view; one highest-leverage cut",
+    "url": "https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Cursor Agent",
+    "author": "Ryan",
+    "role": "Runs cursor-agent CLI locally; PRs and deploys wait for your yes",
+    "url": "https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Design Expert",
+    "author": "Ashish",
+    "role": "Pushes back on AI-looking UI; first generate is not done",
+    "url": "https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Flowsery",
+    "author": "Taras",
+    "role": "Pulls site issues from session recordings, ranked by hit count",
+    "url": "https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Sable: Game Art",
+    "author": "Danny",
+    "role": "2D game art and sprite slices; ask before 3D",
+    "url": "https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Sanity",
+    "author": "Adam",
+    "role": "Sanity CMS models, schema, GROQ, and migrations",
+    "url": "https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "SAP Technical Consultant",
+    "author": "Lalit",
+    "role": "S/4HANA private-cloud technical consultant; standard before custom",
+    "url": "https://x.ai/bot/O08yUdBz6vFFqYITvWPPi",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Speed Lab",
+    "author": "Jacob",
+    "role": "Render-speed lab; keeps only measured LCP wins",
+    "url": "https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "CarmackBot",
+    "author": "Marcus",
+    "role": "Small game engine/firmware; smallest stack that actually runs",
+    "url": "https://x.ai/bot/B5UMQzelNds6Iy2nuFrka",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Usage-pool orchestrator",
+    "author": "Jordan",
+    "role": "Sends heavy work to a Cursor/Grok Build/Claude Code/Codex usage pool",
+    "url": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
+    "verified": "2026-09-01"
   }
 ]

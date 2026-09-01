@@ -6,7 +6,7 @@ Generated from [`data/other.json`](../data/other.json). Edit that file, then run
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-8 bots.
+10 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -18,3 +18,5 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Forge | Robert | One sentence in, installable bot recipe out | https://x.ai/bot/uF_uodOFUz9mdv6XDWE70 | 2026-09-01 |
 | Grok Bot Coach | Amina | Audits an existing bot and tightens it to your spec; does not create new bots on its own | https://x.ai/bot/BrjELcmSwatjRc8DYjtrT | 2026-09-01 |
 | Alfred | Robin | Designs a minimal bot org; default does not create bots; org changes need explicit yes | https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh | 2026-09-01 |
+| Yolk | JP | Sidebar electronic pet egg; feed four food emojis a day | https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh | 2026-09-01 |
+| KeyWire: Would You Rather: Collector | VonDoom | Would You Rather collector-card game; not financial advice | https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU | 2026-09-01 |

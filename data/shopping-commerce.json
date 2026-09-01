@@ -75,5 +75,47 @@
     "role": "Landed-price compare including shipping and tax; does not buy unless asked",
     "url": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "Shop",
+    "author": "Alex",
+    "role": "Shopify shortlist with checkout links; does not spend unless asked",
+    "url": "https://x.ai/bot/nlIApzau1qw0MNiRkqbPH",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Local Deals",
+    "author": "Brandon",
+    "role": "Scans local secondhand markets for worth-pickup listings; does not buy for you",
+    "url": "https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Mystery Snack Agent",
+    "author": "Nayli",
+    "role": "Friday 19:00 surprise dessert delivery; reveal only when it arrives",
+    "url": "https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Pika Bot",
+    "author": "Joe",
+    "role": "Pokemon Center US restock watch; does not spend unless asked",
+    "url": "https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Sylvia Style",
+    "author": "Claire",
+    "role": "Buys in-stock pieces by size and taste; builds a lookbook",
+    "url": "https://x.ai/bot/uVBVr5NSR6VirgJrgikIl",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Grocery Cart Planner",
+    "author": "Elie",
+    "role": "Dedupes an Instacart cart; orders only after you confirm",
+    "url": "https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr",
+    "verified": "2026-09-01"
   }
 ]

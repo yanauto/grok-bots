@@ -6,7 +6,7 @@ Generated from [`data/ops-productivity.json`](../data/ops-productivity.json). Ed
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-30 bots.
+49 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -40,3 +40,22 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Appointment Finder | Liam | Finds best appointment slots; does not book or cancel unless asked | https://x.ai/bot/75K-dB4m30goo_PamA9nM | 2026-09-01 |
 | Job interview hunter | Josh | After a role is locked, drafts applications and intros; never auto-applies | https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u | 2026-09-01 |
 | Paperwork | Liam | Sorts boring files into Notion; no signing, spending, or outbound | https://x.ai/bot/mNN576TxXnc_XZu9aCsfr | 2026-09-01 |
+| Canvas | Dakkshin | Login to school Canvas, list courses and deadlines, help with homework | https://x.ai/bot/YihRBqrXaDwRdjN79Uofl | 2026-09-01 |
+| Morpheus | Liam | Picks a side on a dilemma; does not execute irreversible actions | https://x.ai/bot/uv4r3mNUgymF11q0N3L7F | 2026-09-01 |
+| Negotiator | Dani | Salary, rent, and sales negotiation paths; does not sign for you | https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu | 2026-09-01 |
+| Pain in the Task | Dave | Finds repetitive work that slows you down and pushes it along | https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw | 2026-09-01 |
+| Onboarding Coach | Tobias | Welcomes new users; grows specialists and optional CoS from real work | https://x.ai/bot/OfZitBsJprif-DfsQKBUY | 2026-09-01 |
+| Homeroom | Andy | Parent Schoology snapshots three times on weekdays | https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe | 2026-09-01 |
+| SchoolAdminBot | Tanner | US homeschool admin: rules, admissions, transcripts; pairs with TeacherBot | https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G | 2026-09-01 |
+| TeacherBot | Tanner | Homeschool teacher for one child; year plan and report cards | https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W | 2026-09-01 |
+| Home Front | Diego | Watches VA.gov appointments and benefits; no claims, no purchases | https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL | 2026-09-01 |
+| bond | Lauren | Confidential tasks with an audit trail then wipes working copies | https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv | 2026-09-01 |
+| Clark Kent | Rich | Shop/project daily report, facts first; one paragraph on quiet days | https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes | 2026-09-01 |
+| AIオーケストレーション担当 | Masaki | Dispatch window only; routes work to existing specialists by name | https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk | 2026-09-01 |
+| Skill Bot | Dave | Find, dedupe, and upload skills; weekly conflict review | https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2 | 2026-09-01 |
+| Agent Smith | Chip | Multi-bot workspace hygiene check; destructive changes need permission | https://x.ai/bot/JcFj23aaufNWkuiiJTX0j | 2026-09-01 |
+| BeTree | Nicolas | Turns multi-bot plans into a live behavior-tree board | https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w | 2026-09-01 |
+| Examiner | Liam | Timeline of important changes for later replay; does not change systems | https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E | 2026-09-01 |
+| Linky | Adam | Turns a file or bot artifact into a here.now share URL | https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk | 2026-09-01 |
+| GTM Outbound | Brandon | Outbound GTM: lists, mail, LinkedIn, meetings via CLIs you already have | https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB | 2026-09-01 |
+| Tally Desk | Josh | Tally.so: build forms, read submissions, fill a named form | https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5 | 2026-09-01 |
