@@ -6,7 +6,7 @@ Generated from [`data/coding-dev.json`](../data/coding-dev.json). Edit that file
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-30 bots.
+29 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -39,4 +39,3 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Overwatch | A-A-ron | Shared multi-bot workspace: layout, git backup, cleanup, and a bot registry | https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9 | 2026-09-01 |
 | Lingxi's Engineer Bot | Lingxi | Boards work, launches cloud agents, watches PRs; only asks you to merge | https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j | 2026-09-01 |
 | substreams | Graphtronauts | Finds and composes The Graph substreams packages; writes and tests modules | https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv | 2026-09-01 |
-| figma bro | John | Designs in Figma with real components, layout, and motion | https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz | 2026-09-01 |

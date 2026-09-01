@@ -369,12 +369,5 @@
     "role": "Walks a new user from role and tools to live connectors, then does a first real job",
     "url": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
     "verified": "2026-09-01"
-  },
-  {
-    "name": "Usage Auditor",
-    "author": "Max",
-    "role": "Weekly Grok Bot usage audit; flags duplicate jobs and needless polling",
-    "url": "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2",
-    "verified": "2026-09-01"
   }
 ]

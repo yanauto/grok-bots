@@ -6,7 +6,7 @@ Generated from [`data/other.json`](../data/other.json). Edit that file, then run
 
 Verified means the share page loaded and showed Add to Grok Bot. It is not an endorsement.
 
-12 bots.
+11 bots.
 
 | Name | Author | Role | Share URL | Verified |
 | --- | --- | --- | --- | --- |
@@ -21,4 +21,3 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Yolk | JP | Sidebar electronic pet egg; feed four food emojis a day | https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh | 2026-09-01 |
 | KeyWire: Would You Rather: Collector | VonDoom | Would You Rather collector-card game; not financial advice | https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU | 2026-09-01 |
 | Lumos | Haque | Explains one technical term with the Feynman technique; no follow-up questions | https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK | 2026-09-01 |
-| Cookie Monster | Scott | Imports Chrome cookies so signed-in Grok Bots stay logged in | https://x.ai/bot/55t0IuxxlT7BWffNVOKai | 2026-09-01 |
