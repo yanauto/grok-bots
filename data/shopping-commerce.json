@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Bounty Hunter",
+    "author": "Liam",
+    "role": "Finds missed refunds and billing money; default no outbound spend",
+    "url": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Harvey Specter",
+    "author": "Liam",
+    "role": "Renewal and pricing talks; does not sign and does not spend",
+    "url": "https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Watchdog",
+    "author": "SmoresBoy",
+    "role": "Scans receipts, renewals, and trials; does not cancel, spend, or send mail",
+    "url": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Shopper",
+    "author": "Pete",
+    "role": "Price-compares 2–3 options; does not buy before confirm",
+    "url": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Vinted Seller",
+    "author": "Valerio",
+    "role": "Photos onto Vinted; verifies URL via the real publish path",
+    "url": "https://x.ai/bot/nqMcywYF0Bg35egak7dSh",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Returns & Warranties",
+    "author": "Liam",
+    "role": "Tracks return and warranty windows; does not start a return unless asked",
+    "url": "https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "porshe",
+    "author": "Lauren",
+    "role": "Only finds money already owed; no sending or paying",
+    "url": "https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "AIUsageBot",
+    "author": "Brian",
+    "role": "Tracks remaining quota on AI subscriptions",
+    "url": "https://x.ai/bot/2atUDeldi9vF1R_ySRgCo",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Blair",
+    "author": "Jediah",
+    "role": "Secondhand designer shopping; does not invent listings; contacting sellers needs a yes",
+    "url": "https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Credit Card Max",
+    "author": "Trevin",
+    "role": "Which card to use for the best deal; monthly review",
+    "url": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Deal Hunting",
+    "author": "Andrej",
+    "role": "Landed-price compare including shipping and tax; does not buy unless asked",
+    "url": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+    "verified": "2026-09-01"
+  }
+]

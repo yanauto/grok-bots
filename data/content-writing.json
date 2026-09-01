@@ -1,0 +1,30 @@
+[
+  {
+    "name": "PG",
+    "author": "Krista",
+    "role": "Account research and podcast hooks; drafts outreach",
+    "url": "https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Echo",
+    "author": "Krista",
+    "role": "Client calls into slides; does not invent spoken words; no public posting",
+    "url": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Human Copywriter",
+    "author": "Massimo",
+    "role": "Rewrite to drop AI-voice; drafts only, you post",
+    "url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Index",
+    "author": "Adam",
+    "role": "SEO/AEO briefs, not body copy; quiet unless you need a decision",
+    "url": "https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7",
+    "verified": "2026-09-01"
+  }
+]

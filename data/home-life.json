@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Life",
+    "author": "Tyler",
+    "role": "Life door; mixed personal stuff goes here; only hands calendar hits to Work",
+    "url": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Home robots",
+    "author": "Sawyer",
+    "role": "Chat-control lawn mowers, vacuums, and other Matter home robots",
+    "url": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Chef",
+    "author": "dogenorway",
+    "role": "Seasonal menus and fridge-first shopping; can place grocery orders",
+    "url": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Travel Guru",
+    "author": "DJ",
+    "role": "Points and ticket price compares; no mileage transfer or payment unless you say book",
+    "url": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "HouseBot",
+    "author": "Shub",
+    "role": "12-hour sweep of rent/buy listings",
+    "url": "https://x.ai/bot/3ufXSXC-Z8OadVsV9yMLL",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Be Happier",
+    "author": "Lenny",
+    "role": "Weekly 3 concrete items from mail and calendar; does not add new habits",
+    "url": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Homework Checker",
+    "author": "Kevin",
+    "role": "Weekday after-school missing homework and grade summary",
+    "url": "https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91",
+    "verified": "2026-09-01"
+  }
+]

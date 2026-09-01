@@ -1,0 +1,58 @@
+[
+  {
+    "name": "loops",
+    "author": "",
+    "role": "Public share preview we opened",
+    "url": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Vet",
+    "author": "Gaurang",
+    "role": "Reviews templates and teammates only; pass/warn/fail; does not install or run",
+    "url": "https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Box Inspector",
+    "author": "Knock",
+    "role": "Opens a share link and inspects internals before you add it",
+    "url": "https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "dr eggbot",
+    "author": "Lauren",
+    "role": "Asks a few preference questions then helps you build a bot",
+    "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "template generator",
+    "author": "Jarett",
+    "role": "Scans local Claude/Cline/Grok sessions then generates a shareable template",
+    "url": "https://x.ai/bot/9oKJDID_EKLacIXpKfFAq",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Forge",
+    "author": "Robert",
+    "role": "One sentence in, installable bot recipe out",
+    "url": "https://x.ai/bot/uF_uodOFUz9mdv6XDWE70",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Grok Bot Coach",
+    "author": "Amina",
+    "role": "Audits an existing bot and tightens it to your spec; does not create new bots on its own",
+    "url": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Alfred",
+    "author": "Robin",
+    "role": "Designs a minimal bot org; default does not create bots; org changes need explicit yes",
+    "url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+    "verified": "2026-09-01"
+  }
+]
