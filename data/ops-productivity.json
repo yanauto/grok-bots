@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Master",
+    "author": "Farzad",
+    "role": "Routes work to specialists; does not do the work itself",
+    "url": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Witness",
+    "author": "Liam",
+    "role": "Records decision rationale; does not change the decision",
+    "url": "https://x.ai/bot/p_0KTQ41WwupGeD-iShbK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Chief of Staff",
+    "author": "Avid",
+    "role": "Watches the day and company block; last action needs an explicit ask",
+    "url": "https://x.ai/bot/d8OshqLZvtcKDcNluPuyo",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Work",
+    "author": "Tyler",
+    "role": "Work door; opens rooms and assigns specialists; does not write code",
+    "url": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Inbox Zero",
+    "author": "LD",
+    "role": "Weekday Gmail noise-clear; leave only unread that needs action",
+    "url": "https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "the j*bfinder",
+    "author": "Daniel",
+    "role": "Internship and job tracking in Notion; nags deadlines",
+    "url": "https://x.ai/bot/eSCwViGduTgMD6PiOo7jm",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "club events ops",
+    "author": "Daniel",
+    "role": "Student club event forms, Slack nags, and Notion lists",
+    "url": "https://x.ai/bot/SDLUUiG6HKwiFpGqCOAw7",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "loom",
+    "author": "Lauren",
+    "role": "Chains Gmail draft replies; does not send or delete",
+    "url": "https://x.ai/bot/cElGnAaR55iPHK2DGdPdu",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Reaper",
+    "author": "Liam",
+    "role": "Finds meetings, subs, and processes that should die; audit first, no deletes",
+    "url": "https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Inbot",
+    "author": "Matthew",
+    "role": "Connects the inbox you actually use; scans todos into a ledger",
+    "url": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "GTM Chief Of Staff",
+    "author": "Sultanov",
+    "role": "Enterprise sales pre/post meeting drafts; does not change CRM on its own",
+    "url": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Jess",
+    "author": "Logan",
+    "role": "Weekday rollup of mail, calendar, Notion, and Slack; answers from a playbook",
+    "url": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Lazy Tom",
+    "author": "duyet",
+    "role": "Does the smallest useful step then stops",
+    "url": "https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "SaaSbot",
+    "author": "Daniel",
+    "role": "Weekday GTM, outreach, QA, and onboarding for SaaS founders",
+    "url": "https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Chieeeeefy",
+    "author": "Naoufal",
+    "role": "Field engineer CoS; calendar and work mail; Notion is source of truth",
+    "url": "https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Kody",
+    "author": "Kent",
+    "role": "CoS; kody.codes plugin is home",
+    "url": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Lockdown",
+    "author": "Claire",
+    "role": "Weekday SOC 2; quiet once passing",
+    "url": "https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Projects Manager",
+    "author": "Eric",
+    "role": "Notion project ops; specialists pick up work; you decide",
+    "url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Holly Helpdesk",
+    "author": "Claire",
+    "role": "Frontline support; refund disputes need your approval",
+    "url": "https://x.ai/bot/sIoeE87fILU5CzptPF29K",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Post Call Assistant",
+    "author": "Priya",
+    "role": "Post-meeting todos and drafts; does not send",
+    "url": "https://x.ai/bot/xF12c5y4LVe7nf7IFguWI",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "LinkedIn Desk",
+    "author": "AJ",
+    "role": "Reviews invites; does not click until confirmed",
+    "url": "https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Linkedin Leads",
+    "author": "Angel",
+    "role": "Finds leads from posts and comments by keyword",
+    "url": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Website agency lead scout",
+    "author": "Josh",
+    "role": "Up to 5 confirmed website-build leads per day; no outreach on its own",
+    "url": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "ADM account bot",
+    "author": "Scott",
+    "role": "Weekly plan for customer growth and retention",
+    "url": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Invoice Hunter",
+    "author": "Andrej",
+    "role": "Pulls invoice PDFs from Gmail into a pack; needs approval before sending to accounting",
+    "url": "https://x.ai/bot/-kO6HrXokJZANVwUOMZO9",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "John Wick",
+    "author": "Liam",
+    "role": "Finds the person who can decide then pulls you into the thread; no impersonation, no spray",
+    "url": "https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Freelance manager",
+    "author": "Josh",
+    "role": "Freelancer desk; nags proposals, invoices, and calendar; not a proposal-writing machine",
+    "url": "https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Appointment Finder",
+    "author": "Liam",
+    "role": "Finds best appointment slots; does not book or cancel unless asked",
+    "url": "https://x.ai/bot/75K-dB4m30goo_PamA9nM",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Job interview hunter",
+    "author": "Josh",
+    "role": "After a role is locked, drafts applications and intros; never auto-applies",
+    "url": "https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Paperwork",
+    "author": "Liam",
+    "role": "Sorts boring files into Notion; no signing, spending, or outbound",
+    "url": "https://x.ai/bot/mNN576TxXnc_XZu9aCsfr",
+    "verified": "2026-09-01"
+  }
+]

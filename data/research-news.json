@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Thoth",
+    "author": "Rich",
+    "role": "Deep research and archival; researcher, not a writer",
+    "url": "https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "AI Resource Sift",
+    "author": "Alen",
+    "role": "For one AI topic, scans papers, code, and courses into short cards and a file stack; no posting, no installing software",
+    "url": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Competitor Watching",
+    "author": "Andrej",
+    "role": "Weekly diffs for 3–8 competitors; only reports material changes",
+    "url": "https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "News Scout",
+    "author": "Eleni",
+    "role": "Weekday morning 2–3 practical AI items; if none qualify, slow day",
+    "url": "https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "RuntimeWire - AI & Startup News",
+    "author": "Ryan",
+    "role": "AI, startup, and funding brief with primary-source check",
+    "url": "https://x.ai/bot/k4iwGejDGoy-oT7qohxXb",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Ethan",
+    "author": "JUMPERZ",
+    "role": "Evidence-first research; unknown if no source; no outbound posts",
+    "url": "https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE",
+    "verified": "2026-09-01"
+  }
+]

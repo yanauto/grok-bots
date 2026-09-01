@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Apps",
+    "author": "Wayne",
+    "role": "One-sentence description yields a Convex + Vite + React mini app",
+    "url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Product Engineer 1000x",
+    "author": "Thomas",
+    "role": "Full-stack product engineer on Convex + TanStack + React",
+    "url": "https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "overnight shipper",
+    "author": "Josh",
+    "role": "Queues ideas at night, reviews PRs in the morning",
+    "url": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Webby",
+    "author": "Farzad",
+    "role": "Personal site, weekday dashboard, and newsletter; create only, never delete",
+    "url": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "PR Reviewer",
+    "author": "mustafa",
+    "role": "Looks at the diffs that can explode first; no rubber stamp",
+    "url": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "lgtm the pr closer",
+    "author": "Claire",
+    "role": "Scans open PRs then merge, comment, or close",
+    "url": "https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Gardener",
+    "author": "Tyler",
+    "role": "Only rips dead code it can prove; one small PR at a time",
+    "url": "https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Agent Looper",
+    "author": "dancingteeth",
+    "role": "You set done criteria; local coding agent loops until it passes",
+    "url": "https://x.ai/bot/AETdGbRRNWfckrRGv22LD",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Product Ops",
+    "author": "Ashish",
+    "role": "Frozen list into this week's ship table; checks GitHub; does not invent progress",
+    "url": "https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Site Audit",
+    "author": "Andrej",
+    "role": "Scores SEO, speed, a11y, and CRO; does not invent metrics",
+    "url": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+    "verified": "2026-09-01"
+  }
+]
