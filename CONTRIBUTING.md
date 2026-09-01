@@ -15,4 +15,15 @@ This list only includes Grok Bot share links that someone has opened and confirm
 
 ## Pull request
 
-Edit the table in `README.md`. One verified bot per row. Unverified bots will be rejected.
+Add one object to `data/bots.json`. Do not add a row to `README.md`. Deduplicate by `url`. Unverified bots will be rejected.
+
+```json
+{
+  "name": "Bot name / Author",
+  "role": "One-line role from the share page",
+  "url": "https://x.ai/bot/<id>",
+  "verified": "YYYY-MM-DD"
+}
+```
+
+Optional: `python3 scripts/render_catalog.py` prints a markdown table to stdout for local review.

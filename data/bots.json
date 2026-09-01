@@ -1,0 +1,428 @@
+[
+  {
+    "name": "loops",
+    "role": "Public share preview we opened",
+    "url": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Master / Farzad",
+    "role": "Routes work to specialists; does not do the work itself",
+    "url": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "PG / Krista",
+    "role": "Account research and podcast hooks; drafts outreach",
+    "url": "https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "X Brief / Daniel",
+    "role": "Weekday evening brief from your X follows",
+    "url": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Bounty Hunter / Liam",
+    "role": "Finds missed refunds and billing money; default no outbound spend",
+    "url": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Witness / Liam",
+    "role": "Records decision rationale; does not change the decision",
+    "url": "https://x.ai/bot/p_0KTQ41WwupGeD-iShbK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Harvey Specter / Liam",
+    "role": "Renewal and pricing talks; does not sign and does not spend",
+    "url": "https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Apps / Wayne",
+    "role": "One-sentence description yields a Convex + Vite + React mini app",
+    "url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Thoth / Rich",
+    "role": "Deep research and archival; researcher, not a writer",
+    "url": "https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Growth Desk / Avid",
+    "role": "Drafts X growth only; default does not post, like, or comment",
+    "url": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "AI Resource Sift / Alen",
+    "role": "For one AI topic, scans papers, code, and courses into short cards and a file stack; no posting, no installing software",
+    "url": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Chief of Staff / Avid",
+    "role": "Watches the day and company block; last action needs an explicit ask",
+    "url": "https://x.ai/bot/d8OshqLZvtcKDcNluPuyo",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Vet / Gaurang",
+    "role": "Reviews templates and teammates only; pass/warn/fail; does not install or run",
+    "url": "https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Watchdog / SmoresBoy",
+    "role": "Scans receipts, renewals, and trials; does not cancel, spend, or send mail",
+    "url": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Box Inspector / Knock",
+    "role": "Opens a share link and inspects internals before you add it",
+    "url": "https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Product Engineer 1000x / Thomas",
+    "role": "Full-stack product engineer on Convex + TanStack + React",
+    "url": "https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "dr eggbot / Lauren",
+    "role": "Asks a few preference questions then helps you build a bot",
+    "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "template generator / Jarett",
+    "role": "Scans local Claude/Cline/Grok sessions then generates a shareable template",
+    "url": "https://x.ai/bot/9oKJDID_EKLacIXpKfFAq",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Work / Tyler",
+    "role": "Work door; opens rooms and assigns specialists; does not write code",
+    "url": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Life / Tyler",
+    "role": "Life door; mixed personal stuff goes here; only hands calendar hits to Work",
+    "url": "https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Forge / Robert",
+    "role": "One sentence in, installable bot recipe out",
+    "url": "https://x.ai/bot/uF_uodOFUz9mdv6XDWE70",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Grok Bot Coach / Amina",
+    "role": "Audits an existing bot and tightens it to your spec; does not create new bots on its own",
+    "url": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "overnight shipper / Josh",
+    "role": "Queues ideas at night, reviews PRs in the morning",
+    "url": "https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Webby / Farzad",
+    "role": "Personal site, weekday dashboard, and newsletter; create only, never delete",
+    "url": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Inbox Zero / LD",
+    "role": "Weekday Gmail noise-clear; leave only unread that needs action",
+    "url": "https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Home robots / Sawyer",
+    "role": "Chat-control lawn mowers, vacuums, and other Matter home robots",
+    "url": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "the j*bfinder / Daniel",
+    "role": "Internship and job tracking in Notion; nags deadlines",
+    "url": "https://x.ai/bot/eSCwViGduTgMD6PiOo7jm",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "club events ops / Daniel",
+    "role": "Student club event forms, Slack nags, and Notion lists",
+    "url": "https://x.ai/bot/SDLUUiG6HKwiFpGqCOAw7",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Shopper / Pete",
+    "role": "Price-compares 2–3 options; does not buy before confirm",
+    "url": "https://x.ai/bot/--X3KeUBk4AwgtfcxxKxZ",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "loom / Lauren",
+    "role": "Chains Gmail draft replies; does not send or delete",
+    "url": "https://x.ai/bot/cElGnAaR55iPHK2DGdPdu",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Reaper / Liam",
+    "role": "Finds meetings, subs, and processes that should die; audit first, no deletes",
+    "url": "https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "X High Coach / High",
+    "role": "Drop a username; scores the account and says what to change",
+    "url": "https://x.ai/bot/xSfBSprfKv5h909uzrv7W",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "PR Reviewer / mustafa",
+    "role": "Looks at the diffs that can explode first; no rubber stamp",
+    "url": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "lgtm the pr closer / Claire",
+    "role": "Scans open PRs then merge, comment, or close",
+    "url": "https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "X Strategist / Sultanov",
+    "role": "Only suggests who to follow and what to write; does not post or comment",
+    "url": "https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "repost X posts everywhere / jack",
+    "role": "Mirrors new X posts to other platforms via Post Bridge",
+    "url": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Gardener / Tyler",
+    "role": "Only rips dead code it can prove; one small PR at a time",
+    "url": "https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Agent Looper / dancingteeth",
+    "role": "You set done criteria; local coding agent loops until it passes",
+    "url": "https://x.ai/bot/AETdGbRRNWfckrRGv22LD",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Inbot / Matthew",
+    "role": "Connects the inbox you actually use; scans todos into a ledger",
+    "url": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Echo / Krista",
+    "role": "Client calls into slides; does not invent spoken words; no public posting",
+    "url": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "GTM Chief Of Staff / Sultanov",
+    "role": "Enterprise sales pre/post meeting drafts; does not change CRM on its own",
+    "url": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Product Ops / Ashish",
+    "role": "Frozen list into this week's ship table; checks GitHub; does not invent progress",
+    "url": "https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Vinted Seller / Valerio",
+    "role": "Photos onto Vinted; verifies URL via the real publish path",
+    "url": "https://x.ai/bot/nqMcywYF0Bg35egak7dSh",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Jess / Logan",
+    "role": "Weekday rollup of mail, calendar, Notion, and Slack; answers from a playbook",
+    "url": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Competitor Watching / Andrej",
+    "role": "Weekly diffs for 3–8 competitors; only reports material changes",
+    "url": "https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Lazy Tom / duyet",
+    "role": "Does the smallest useful step then stops",
+    "url": "https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "News Scout / Eleni",
+    "role": "Weekday morning 2–3 practical AI items; if none qualify, slow day",
+    "url": "https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "RuntimeWire - AI & Startup News / Ryan",
+    "role": "AI, startup, and funding brief with primary-source check",
+    "url": "https://x.ai/bot/k4iwGejDGoy-oT7qohxXb",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Ethan / JUMPERZ",
+    "role": "Evidence-first research; unknown if no source; no outbound posts",
+    "url": "https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "SaaSbot / Daniel",
+    "role": "Weekday GTM, outreach, QA, and onboarding for SaaS founders",
+    "url": "https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Returns & Warranties / Liam",
+    "role": "Tracks return and warranty windows; does not start a return unless asked",
+    "url": "https://x.ai/bot/HmUpwJbVbgLEGisEj0FPt",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Human Copywriter / Massimo",
+    "role": "Rewrite to drop AI-voice; drafts only, you post",
+    "url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Site Audit / Andrej",
+    "role": "Scores SEO, speed, a11y, and CRO; does not invent metrics",
+    "url": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Index / Adam",
+    "role": "SEO/AEO briefs, not body copy; quiet unless you need a decision",
+    "url": "https://x.ai/bot/Viv2NbC5skPslV1WH9Fs7",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Chef / dogenorway",
+    "role": "Seasonal menus and fridge-first shopping; can place grocery orders",
+    "url": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Alfred / Robin",
+    "role": "Designs a minimal bot org; default does not create bots; org changes need explicit yes",
+    "url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Travel Guru / DJ",
+    "role": "Points and ticket price compares; no mileage transfer or payment unless you say book",
+    "url": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Chieeeeefy / Naoufal",
+    "role": "Field engineer CoS; calendar and work mail; Notion is source of truth",
+    "url": "https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Kody / Kent",
+    "role": "CoS; kody.codes plugin is home",
+    "url": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Lockdown / Claire",
+    "role": "Weekday SOC 2; quiet once passing",
+    "url": "https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Projects Manager / Eric",
+    "role": "Notion project ops; specialists pick up work; you decide",
+    "url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Holly Helpdesk / Claire",
+    "role": "Frontline support; refund disputes need your approval",
+    "url": "https://x.ai/bot/sIoeE87fILU5CzptPF29K",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Post Call Assistant / Priya",
+    "role": "Post-meeting todos and drafts; does not send",
+    "url": "https://x.ai/bot/xF12c5y4LVe7nf7IFguWI",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "LinkedIn Desk / AJ",
+    "role": "Reviews invites; does not click until confirmed",
+    "url": "https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Linkedin Leads / Angel",
+    "role": "Finds leads from posts and comments by keyword",
+    "url": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Website agency lead scout / Josh",
+    "role": "Up to 5 confirmed website-build leads per day; no outreach on its own",
+    "url": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "ADM account bot / Scott",
+    "role": "Weekly plan for customer growth and retention",
+    "url": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "porshe / Lauren",
+    "role": "Only finds money already owed; no sending or paying",
+    "url": "https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "Invoice Hunter / Andrej",
+    "role": "Pulls invoice PDFs from Gmail into a pack; needs approval before sending to accounting",
+    "url": "https://x.ai/bot/-kO6HrXokJZANVwUOMZO9",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "AIUsageBot / Brian",
+    "role": "Tracks remaining quota on AI subscriptions",
+    "url": "https://x.ai/bot/2atUDeldi9vF1R_ySRgCo",
+    "verified": "2026-09-01"
+  },
+  {
+    "name": "John Wick / Liam",
+    "role": "Finds the person who can decide then pulls you into the thread; no impersonation, no spray",
+    "url": "https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7",
+    "verified": "2026-09-01"
+  }
+]
