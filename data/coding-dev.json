@@ -201,5 +201,12 @@
     "role": "Finds and composes The Graph substreams packages; writes and tests modules",
     "url": "https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv",
     "verified": "2026-09-01"
+  },
+  {
+    "name": "figma bro",
+    "author": "John",
+    "role": "Designs in Figma with real components, layout, and motion",
+    "url": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+    "verified": "2026-09-01"
   }
 ]
