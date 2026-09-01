@@ -28,3 +28,4 @@ Verified means the share page loaded and showed Add to Grok Bot. It is not an en
 | Witness / Liam | Records decision rationale; does not change the decision | https://x.ai/bot/p_0KTQ41WwupGeD-iShbK | 2026-09-01 |
 | Harvey Specter / Liam | Renewal and pricing talks; does not sign and does not spend | https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m | 2026-09-01 |
 | Apps / Wayne | One-sentence description yields a Convex + Vite + React mini app | https://x.ai/bot/OPLop__-mqSsyQheR5JYv | 2026-09-01 |
+| Thoth / Rich | Deep research and archival; researcher, not a writer | https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT | 2026-09-01 |
